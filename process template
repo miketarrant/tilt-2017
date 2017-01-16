@@ -1,0 +1,23 @@
+process NAME:
+----------------------------
+process SME WHO/ROLE #1:
+process SME WHO/ROLE #2:
+----------------------------
+handoffs IN - FROM WHO/THEIR ROLE:
+----------------------------
+data IN #1:
+data IN #2:
+data IN #3:
+data IN #4:
+data IN #5:
+----------------------------
+data OUT #1:
+data OUT #2:
+data OUT #3:
+data OUT #4:
+data OUT #5:
+----------------------------
+handoffs OUT - TO WHO/THEIR ROLE:
+----------------------------
+OTHER:
+----------------------------

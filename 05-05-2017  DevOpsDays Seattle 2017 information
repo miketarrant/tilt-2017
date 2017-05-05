@@ -1,0 +1,88 @@
+
+Ideas from DevOpsDays Seattle 2017 (04/26 & 04/27):
+  YAML -- use for test process documents? (http://yaml.org/)
+  ALM Octane -- for better process tools?
+  
+==========================
+  
+Summary of notes I took at DevOpsDays Seattle 2017 (sent at work):
+  
+What is DevOps?  (http://www.webopedia.com/TERM/D/devops_development_operations.html)
+    *  DevOps (development and operations) is an enterprise software development phrase used to mean a type of agile relationship between Development and IT Operations. The goal of DevOps is to change and improve the relationship by advocating better communication and collaboration between the two business units.
+
+DevOpsDays Seattle 2017:
+•	https://www.devopsdays.org/events/2017-seattle/program/
+•	https://www.devopsdays.org/events/2017-seattle/speakers/
+
+
+All of the talks were good, four that stood out were:
+•	Driving Technical Change                                                                              
+    https://www.devopsdays.org/events/2017-seattle/program/terrance-ryan/  
+•	Columbia's DevOps Journey Within A Microsoft Enterprise           
+    https://www.devopsdays.org/events/2017-seattle/program/scott-nasello/
+•	From Waterfall To River – A Story Of Transitioning To Flow           
+    https://www.devopsdays.org/events/2017-seattle/program/sarah-shewell-suzanne-nielsen/
+•	Managing Fires: Leadership Through Crisis                                           
+    https://www.devopsdays.org/events/2017-seattle/program/aaron-aldrich/
+
+
+Concepts from the presenters:
+•	DevOps is a technology value stream with lean principles
+
+•	Smaller deployments that happen more frequently = higher reliability  (Amazon releases new code thousands of times per day across their enterprise)
+
+•	Dr. Steven Spear; The High Velocity Edge (https://www.amazon.com/High-Velocity-Edge-Operational-Excellence-Competition/dp/0071741410)
+ – four conditions for safe systems:
+    1.)	See problems as they occur
+    2.)	Swarm and solve problems to create new knowledge (systemic fixes)
+    3.)	Spread new knowledge throughout the organization
+        a.	Single, shared source code repositories
+        b.	Blameless post-mortems
+        c.	Chaos monkeys (practice intentional outages, failures, etc.)
+    4.)	Leaders create new leaders
+
+•	Transformational Leadership needs – Creativity, Growth, Vision, Authenticity
+
+•	"Every company is a software company."  ~Author unknown/multiple sources
+
+•	The right automation enables human/personal connection rather than replacing it
+
+•	Let go of being right and meet people where they are.
+
+•	How do you do DevOps if you don't have a learning org? You need to have a learning org.
+    o	Presenter mentioned Carol Dweck – “You're not yet meeting the standard.” Use the word “Yet" -- room for growth/inspires growth.
+       *	https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve
+    o	DevOps practices can be used to teach an org to become a learning org
+
+•	Manage your bench (swarm an incident, but manage people so they’re fresh for later)
+
+•	With issues/fires/downtimes: Communicate quickly, often, and honestly – honestly is rewarded
+
+•	Post-mortem for every event 
+
+•	Lean is about investing to eliminate waste.
+
+•	During Value Stream analysis - honoring reality is a platform for improvement (an effective initial value stream analysis has no place for “…it will like this in the future…”)
+
+•	To be effective and elevate your contributions:
+    o	Know your business
+    o	Know your systems
+        *	Domain expertise + business knowledge = understanding business impact
+    o	Know the people that use your systems
+        *	Remove impediments to creating value/booking revenue
+    o	Know your priorities
+        *	Planned work vs. Unplanned work: Priorities help you take unplanned work and turn it in to planned work
+
+•	Think like a system, not an isolated/siloed team
+
+•	Cast a wide feedback net
+
+•	“Start somewhere and learn from experience.” ~John Shook (Lean Enterprise Institute)
+
+•	How to Change  Culture: Lessons From NUMMI  by John Shook (GM/Toyota joint auto plan venture)
+    o	https://www.lean.org/Search/Documents/35.pdf
+        *	“…the way to change culture is not to first change how people think, but instead to change how people behave – what they do.”
+
+==================================
+
+  

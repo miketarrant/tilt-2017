@@ -1,2 +1,4 @@
 Gerkin and Cucumber:
     https://github.com/cucumber/cucumber/wiki/Introduction-to-Cucumber-for-non-programmers
+    
+Collect specifications/requirements in Gerkin format for easy translation into build and tests?

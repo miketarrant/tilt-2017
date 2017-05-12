@@ -1,3 +1,7 @@
+Two format ideas:
+  1.) Use YAML format
+  2.) Use SIPOC (Supplier | Input | Process | Output | Customer) analysis
+
 process NAME:
 ----------------------------
 process SME WHO/ROLE #1:

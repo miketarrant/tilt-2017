@@ -1,0 +1,15 @@
+==== Not new, but I like the way these are presented. ====
+
+"Tests are executable requirements", Test Driven Python Development, By: Siddharta Govindaraj
+
+----------
+This test follows the pattern of Arrange-Act-Assert.
+
+Arrange: Set up the context for the test. 
+  In this case, we create a Stock object. In other tests, it may involve creating multiple objects 
+  or hooking a few things together that will be required by the particular test.
+
+Act: Perform the action that we want to test. Here, we call the update method with the appropriate arguments.
+
+Assert: Finally we assert that the outcome was as expected.
+  In this test, each part of the pattern took one line of code, but this is not always the case. Often there will be more than one line for each part of the test.
